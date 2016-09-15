@@ -100,3 +100,6 @@ public class zodiaco {
 		if (a <= 21 && b == 12) {
 			System.out.println("Su signo es Sagitario");
 		}
+
+	}
+}
